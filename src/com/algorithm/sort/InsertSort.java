@@ -1,6 +1,6 @@
-package com.suanfa.paixu;
+package com.algorithm.sort;
 
-public class ChaRuPaiXu {
+public class InsertSort {
 	public static void main(String[] args){
 		int[] a= {1,2,5,6,8};
 		sort(a);
